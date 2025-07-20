@@ -9,6 +9,7 @@ A glowing, glassmorphic and responsive UI Kit built for SaaS dashboards and admi
 
 ---
 
-🛡️ License: [See LICENSE.md](./LICENSE.md)  
+🛡️ License: [See LICENSE.md]([./LICENSE.md](https://shoaibraza12.github.io/neuroflow-html-ui-kit/
+))  
 📥 Buy Full Kit: [Gumroad Link](#)  
 📩 Contact: bc200412959@gmail.com  
